@@ -1,6 +1,6 @@
 # bc-thesis
 
-# description
+# Description
 This bachelor thesis deals with the development of mobile application for the Android operating 
 system, in order to monitor the temperature and humidity of the air in the home. The application 
 itself also contains additional features, such as GPS locator with map display and current weather 
